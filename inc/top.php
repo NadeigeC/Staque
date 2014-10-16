@@ -10,11 +10,11 @@
 <body>
 	<header id="header">
 
-	<a href="login.php">STAQUE</a>
+	<a href="login.php" class="leftMenu">STAQUE</a>
 
 	<nav id="menu">
-	<a href="login.php" title="se connecter">Se connecter</a>
-	<a href="register.php"> S'inscrire</a>
+	<a href="login.php" title="se connecter" class="rightMenu">Se connecter</a>
+	<a href="register.php" class="rightMenu"> S'inscrire</a>
 
 	</nav>
 

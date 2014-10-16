@@ -56,5 +56,21 @@ table {
 	width:100%;
 }
 
-#menu
 
+#menu{
+	float:right;
+	
+	color:white;
+}
+
+
+.leftMenu,.rightMenu{
+
+	text-decoration: none;
+	color:white;
+	font-weight: 700;
+	padding-left: 15px;
+	padding-right: 10px;
+	padding-top:10px;
+
+}
