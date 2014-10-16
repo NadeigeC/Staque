@@ -49,4 +49,12 @@ table {
 
 /* fin du reset */
 
+#header{
+
+	height:50px;
+	background-color: black;
+	width:100%;
+}
+
+#menu
 
