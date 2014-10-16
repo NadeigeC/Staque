@@ -1,6 +1,6 @@
 <?php
 
-    function home(){
+/*    function home(){
         function showPage()
     }
 
@@ -14,5 +14,7 @@
 
     function showPage(){
         global $page;
-        include("pages/" . $pages .".php")
+        include("pages/" . $pages .".php");
     }
+*/
+?>
